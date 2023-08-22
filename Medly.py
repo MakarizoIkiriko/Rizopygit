@@ -4,3 +4,4 @@ answer = num1 + num2
 print(answer)
 
 print("Please hurry up it's important")
+print("Tacoooo Tuesdayyyy!!!")
